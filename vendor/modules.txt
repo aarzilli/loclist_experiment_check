@@ -1,0 +1,6 @@
+# github.com/go-delve/delve v1.3.3-0.20191204150350-35d168ac1652
+## explicit
+github.com/go-delve/delve/pkg/dwarf/godwarf
+github.com/go-delve/delve/pkg/dwarf/loclist
+github.com/go-delve/delve/pkg/dwarf/op
+github.com/go-delve/delve/pkg/dwarf/util
